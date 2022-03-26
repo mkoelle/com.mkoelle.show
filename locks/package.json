@@ -1,0 +1,16 @@
+{
+  "name": "locks",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "prettier --check --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.6.1",
+    "reveal.js": "^4.3.1",
+    "vite": "^2.8.0"
+  }
+}
